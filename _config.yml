@@ -19,4 +19,7 @@ navigation:
   - name: Eugene Moreau
     url: 'http://eugenemoreau.com'
     type: external
+  - name: Moreau Communications
+    url: 'http://moreaucommunications.com'
+    type: external
 description: Next Level Business
