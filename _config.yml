@@ -16,4 +16,7 @@ navigation:
   - name: 13 Box
     url: 'http://13boxpresentation.com'
     type: external
+  - name: Eugene Moreau
+    url: 'http://eugenemoreau.com'
+    type: external
 description: Next Level Business
