@@ -12,4 +12,8 @@ color:
     - '#9768D1'
 layout_spectrum: 0.37513154395855963
 name: Edge 4 Consulting
+navigation:
+  - name: 13 Box
+    url: 'http://13boxpresentation.com'
+    type: external
 description: Next Level Business
