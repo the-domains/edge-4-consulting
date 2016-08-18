@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Edge 4 Group]]></title>
+        <description><![CDATA[The Edge 4 Group]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 18:14:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Four Pillars of Influence, Where EPIC Begins!]]></title>
+            <description><![CDATA[<article><h1>The Four Pillars of Influence, Where EPIC Begins!</h1><p>To be a leader in your market you must be an influencer. To be a memorable, effective business communicator, you must be an influencer. To be an influential communicator you will need to be engaging, persuasive, impacting and compelling.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3db18d7f4a1000a096107e89f226a695/noop.jpg?input=http%3A%2F%2Fwww.eugenemoreau.com%2Fwp-content%2Fuploads%2F2016%2F08%2F4-pillars.jpg"></article>]]></description>
+            <link>http://www.eugenemoreau.com/the-four-pillars-of-influence-where-epic-begins/</link>
+            <guid isPermaLink="false">d570994c-b9d0-4414-97a2-44078a5076f3</guid>
+            <pubDate>Thu, 18 Aug 2016 18:14:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
