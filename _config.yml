@@ -11,7 +11,10 @@ color:
     - '#7B52AB'
     - '#9768D1'
 layout_spectrum: 0.37513154395855963
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6db71fd2-93d1-43cc-8abe-9c478edc3bfb.png
 name: Edge 4 Consulting
+style: taylor
 navigation:
   - name: 13 Box
     url: 'http://13boxpresentation.com'
@@ -22,5 +25,7 @@ navigation:
   - name: Moreau Communications
     url: 'http://moreaucommunications.com'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c3205a4-a819-4c51-8860-b01f0d2506af.png
 title: The Edge 4 Group
 description: Next Level Business
